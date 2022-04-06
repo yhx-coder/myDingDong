@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My DingDong</string>
+    <string name="title_home">dingdongHepler</string>
+    <string name="dingdong">"模拟点击"</string>
+    <string name="button">开启服务</string>
+    <string name="readme">
+        1.使用方法: \n
+        打开插件，在辅助功能设置中授予权限，之后会在叮咚买菜购物车中自动点击支付。间隔是10ms。\n
+        2.说明: \n
+        (1)项目是由 SkyKai 大佬的 https://github.com/Skykai521/DingDongHelper/ 学习改写而来。\n
+        (2)如果不好用，还是下载 SkyKai 的插件吧。方法：关注公众号：SkyKai 。回复：叮咚助手。听说有人成功了。
+    </string>
+</resources>
